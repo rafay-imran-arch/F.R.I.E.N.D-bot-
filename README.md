@@ -1,2 +1,2 @@
-# F.R.I.E.N.D-bot-
+# F.R.I.E.N.D-bot
 A slack bot 
